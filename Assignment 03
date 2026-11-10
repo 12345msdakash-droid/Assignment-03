@@ -1,0 +1,21 @@
+# Create Resume using Input and Output
+
+name = input("Enter your name: ")
+age = input("Enter your age: ")
+degree = input("Enter your degree: ")
+
+print("\n------ MY RESUME ------")
+print("Name:", name)
+print("Age:", age)
+print("Degree:", degree)
+print("-----------------------")
+
+Enter your name: Ares
+Enter your age: 18
+Enter your degree: BCA
+
+------ MY RESUME ------
+Name: Ares
+Age: 18
+Degree: BCA
+-----------------------
